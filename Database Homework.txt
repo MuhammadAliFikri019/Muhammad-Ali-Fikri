@@ -12,7 +12,7 @@ idbarang, namabarang, jenisbarang, kodeperusahaan, harga
 'M119', 'CRV', 'mobil', 1002, 465000000
 }
 Pelanggan = {
-Idpelanggan, namad, namab, kotapelanggan, telepon
+idpelanggan, namad, namab, kotapelanggan, telepon
 'p0001', 'dewa', 'gede', 'jakarta', 031223443
 'p0002', 'cahya', 'agung', 'surabaya', 031556123
 'p0003', 'sri', 'wulan', 'surabaya', 031567234
